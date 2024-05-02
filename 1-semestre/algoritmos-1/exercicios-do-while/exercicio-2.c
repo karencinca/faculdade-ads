@@ -40,7 +40,6 @@ int main(int argc, char const *argv[])
             default:
             	printf("Numero invalido!");
             	break;
-
 			}
 			
 			printf("Vote para vereador: ");
