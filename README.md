@@ -5,3 +5,5 @@
 #### 📚 1º Semestre (2024/1)
 - Algoritmos e Programação I
 
+#### 📚 2º Semestre (2024/2)
+- Algoritmos e Programação II
